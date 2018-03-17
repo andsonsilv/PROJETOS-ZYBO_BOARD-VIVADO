@@ -1,0 +1,4 @@
+Pisca leds a partir de um contador BCD. Exite uma BRAM, onde têm 16 endereços,
+porém como usá-se BCD, tem acesso as 10 primeiras posições. Tem um divisor de frequência  
+de 125000000 Hertz. O projeto está legível, se a explicação não ficou legal, 
+vale a pena conferir o projeto para um maior entendimento do mesmo.
